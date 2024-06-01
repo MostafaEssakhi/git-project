@@ -42,3 +42,9 @@ CREATE TABLE Groupe (
     code_eleve INT,
     FOREIGN KEY (code_eleve) REFERENCES Eleve(code)
 );
+-- Table affictation
+Create table affictaion (
+     id int auto_increment Primery key
+
+
+)
